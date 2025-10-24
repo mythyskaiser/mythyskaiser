@@ -9,7 +9,7 @@
 
 ![Russian Flag](https://flagcdn.com/w40/ru.png)
 ![Sakha Flag](https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png)
-<img src="[image.jpg](https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png)" alt="Саха" style="width: 50%; height: 50%;" />
+<picture><img src="[image.jpg](https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png)" alt="Саха" style="width: 50%; height: 50%;" /></picture>
 ![American Flag](https://flagcdn.com/w40/us.png)
 ![German Flag](https://flagcdn.com/w40/de.png)
 ![Japanese Flag](https://flagcdn.com/w40/jp.png)
