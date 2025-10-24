@@ -7,11 +7,8 @@
 
 ## Languages
 
-- English (US) 🇺🇸
-:flag-jp:
-🇯🇵
+![Japanese Flag](https://flagcdn.com/w40/jp.png)
 
-- Spanish (Spain) 🇪🇸
 
 
 ## 🛠️ Tech Stack:
