@@ -6,7 +6,7 @@
 
 
 ##🌐 Languages:
-<picture><img alt="Sakha" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png" style="width: 5%; border: 1px solid black; height: 5%;" /></picture> (Native)
+<picture><img alt="Sakha" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png" style="width: 5%; height: 5%; border: 5px solid black;" /></picture> (Native)
 <picture><img alt="Russian" src="https://flagcdn.com/w40/ru.png" style="border: 1px solid black;" /></picture> (Native)
 <picture><img alt="English" src="https://flagcdn.com/w40/us.png" style="border: 1px solid black;" /></picture> (B1-B2)
 <picture><img alt="Japanese" src="https://flagcdn.com/w40/jp.png" style="border: 1px solid black;" /></picture> (A2=N4)
