@@ -1,5 +1,3 @@
- <div style="background-color: #e5e5e5;">
-## Hi there 👋
 <picture><img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&text=Hi%20There,%20I'm%20Maxim%20👋&fontColor=FFFFFF&fontSize=20&fontAlignY=20" width="100%"></picture>
 
 ## 👨‍💻 About Me:
@@ -31,4 +29,3 @@
 <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythyskaiser&hide_title=true&layout=compact&langs_count=8&bg_color=080808&text_color=ffffff)
-</div>
