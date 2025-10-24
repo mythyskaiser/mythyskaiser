@@ -5,10 +5,11 @@
 💻 I am a Data Scientist from Yakutsk.
 
 
-## Languages
+##🌐 Languages:
+
+
 
 ![Japanese Flag](https://flagcdn.com/w40/jp.png)
-
 
 
 ## 🛠️ Tech Stack:
