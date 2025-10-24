@@ -8,7 +8,8 @@
 ## Languages
 
 - English (US) 🇺🇸
-- **Japanese (Japan) 🇯🇵** <-- Here it is!
+- Japan: 🇯🇵
+
 - Spanish (Spain) 🇪🇸
 
 
