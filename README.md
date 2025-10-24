@@ -11,7 +11,16 @@
 <img alt="English" src="https://flagcdn.com/w40/us.png" style="border: 2px solid #0f0f0f; border-radius: 2px;" /> (B1-B2)
 <img alt="Japanese" src="https://flagcdn.com/w40/jp.png" style="border: 2px solid #0f0f0f; border-radius: 2px;" /> (A2=N4)
 <img alt="German" src="https://flagcdn.com/w40/de.png" style="border: 2px solid #0f0f0f; border-radius: 2px;" /> (A1)
+<svg class="flag" width="200" height="120">
+        <rect width="200" height="120" fill="white"/>
+        <circle cx="100" cy="60" r="40" fill="#BC002D"/>
+    </svg>
 
+    <svg class="flag" width="200" height="120">
+        <rect width="200" height="40" fill="white"/>
+        <rect y="40" width="200" height="40" fill="#0039A6"/>
+        <rect y="80" width="200" height="40" fill="#D52B1E"/>
+    </svg>
 ## 🛠️ Tech Stack:
 🌐
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
