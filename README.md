@@ -11,7 +11,7 @@
 <img alt="Japanese" src="https://flagcdn.com/w40/jp.png" style="border: 2px solid black;" /> (A2=N4)
 <img alt="German" src="https://flagcdn.com/w40/de.png" style="border: 2px solid black;" /> (A1)
 <span style="border: 3px solid black; display: inline-block;">
-  <img alt="Sakha" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png" style="width: 5%; height: 5%;" />
+  <img alt="Sakha" src="https://flagcdn.com/w40/jp.png" />
 </span>
 ## 🛠️ Tech Stack:
 🌐
