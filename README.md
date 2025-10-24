@@ -1,4 +1,4 @@
- <div style="background-color: #ff0000">
+ <div style="background-color: #e5e5e5">
 ## Hi there 👋
 <picture><img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&text=Hi%20There,%20I'm%20Maxim%20👋&fontColor=FFFFFF&fontSize=20&fontAlignY=20" width="100%"></picture>
 
