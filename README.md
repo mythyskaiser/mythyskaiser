@@ -17,7 +17,8 @@
 <picture><img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></picture>
 <picture><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500"></picture>
 <picture><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></picture>
-🔧
+
+🔧&nbsp;
 <picture><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
 
 ⚙️
