@@ -5,11 +5,11 @@
 💻 I am a Data Scientist from Yakutsk.
 
 ## 🌍 Languages:
-<img alt="Sakha" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png" style="width: 40px; height: 25px; border: 2px solid #000000; border-radius: 2px;" /> (Native)
-<img alt="Russian" src="https://flagcdn.com/w40/ru.png" style="width: 40px; height: 25px; border: 2px solid #000000; border-radius: 2px;" /> (Native)
-<img alt="English" src="https://flagcdn.com/w40/us.png" style="width: 40px; height: 25px; border: 2px solid #000000; border-radius: 2px;" /> (B1-B2)
-<img alt="Japanese" src="https://flagcdn.com/w40/jp.png" style="width: 40px; height: 25px; border: 2px solid #000000; border-radius: 2px;" /> (A2=N4)
-<img alt="German" src="https://flagcdn.com/w40/de.png" style="width: 40px; height: 25px; border: 2px solid #000000; border-radius: 2px;" /> (A1)
+<img alt="Sakha" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png" style="width: 40px; height: 25px; border: 2px solid #0f0f0f; border-radius: 2px;" /> (Native)
+<img alt="Russian" src="https://flagcdn.com/w40/ru.png" style="border: 2px solid #0f0f0f; border-radius: 2px;" /> (Native)
+<img alt="English" src="https://flagcdn.com/w40/us.png" style="border: 2px solid #0f0f0f; border-radius: 2px;" /> (B1-B2)
+<img alt="Japanese" src="https://flagcdn.com/w40/jp.png" style="border: 2px solid #0f0f0f; border-radius: 2px;" /> (A2=N4)
+<img alt="German" src="https://flagcdn.com/w40/de.png" style="border: 2px solid #0f0f0f; border-radius: 2px;" /> (A1)
 
 ## 🛠️ Tech Stack:
 🌐
