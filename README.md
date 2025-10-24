@@ -11,8 +11,8 @@
 
 
 🛢️ &nbsp;
-<div>TensorFlow,PyTorch</div>
 <div>numpy,pandas,matplotlib,sklearn</div>
+<div>TensorFlow,PyTorch</div>
 🔧
 <picture><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
 
