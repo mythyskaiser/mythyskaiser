@@ -8,7 +8,8 @@
 ## Languages
 
 - English (US) 🇺🇸
-- Japan: 🇯🇵
+:flag-jp:
+🇯🇵
 
 - Spanish (Spain) 🇪🇸
 
