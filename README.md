@@ -14,13 +14,13 @@
 <svg class="flag" width="200" height="120">
         <rect width="200" height="120" fill="white"/>
         <circle cx="100" cy="60" r="40" fill="#BC002D"/>
-    </svg>
+</svg>
 
-    <svg class="flag" width="200" height="120">
+<svg class="flag" width="200" height="120">
         <rect width="200" height="40" fill="white"/>
         <rect y="40" width="200" height="40" fill="#0039A6"/>
         <rect y="80" width="200" height="40" fill="#D52B1E"/>
-    </svg>
+</svg>
 ## 🛠️ Tech Stack:
 🌐
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
