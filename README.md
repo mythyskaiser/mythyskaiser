@@ -11,8 +11,12 @@
 
 
 🛢️ &nbsp;
-<div>numpy,pandas,matplotlib,sklearn</div>
-<div>TensorFlow,PyTorch</div>
+<picture><img alt="numpy" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
+<picture><img alt="pandas" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
+<picture><img alt="matplotlib" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
+<picture><img alt="sklearn" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
+<picture><img alt="TensorFlow" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
+<picture><img alt="PyTorch" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
 🔧
 <picture><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
 
