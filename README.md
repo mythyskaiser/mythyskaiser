@@ -7,12 +7,11 @@
 
 ##🌐 Languages:
 
-![Russian Flag](https://flagcdn.com/w40/ru.png)
-<picture><img alt="Yakut" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png" style="width: 5%; height: 5%;" /></picture>
-![American Flag](https://flagcdn.com/w40/us.png)
-![German Flag](https://flagcdn.com/w40/de.png)
-![Japanese Flag](https://flagcdn.com/w40/jp.png)
-
+![Russian Flag](https://flagcdn.com/w40/ru.png) (Native)
+<picture><img alt="Yakut" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Sakha_%28Yakutia%29.png" style="width: 5%; height: 5%;" /></picture> (Native)
+![American Flag](https://flagcdn.com/w40/us.png) (B1-B2)
+![Japanese Flag](https://flagcdn.com/w40/jp.png) (A2=N4)
+![German Flag](https://flagcdn.com/w40/de.png) (A1)
 
 ## 🛠️ Tech Stack:
 🌐
