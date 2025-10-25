@@ -32,4 +32,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythyskaiser&hide_title=true&layout=compact&langs_count=8&bg_color=080808&text_color=ffffff)
 
-<picture><img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&text=Hi%20There,%20I'm%20Maxim%20👋&fontColor=FFFFFF&fontSize=20&fontAlignY=20&section=footer" width="100%"></picture>
+<picture><img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&fontColor=FFFFFF&fontSize=20&fontAlignY=20&section=footer" width="100%"></picture>
