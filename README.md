@@ -23,6 +23,7 @@
 <img alt="CatBoost" src="https://img.shields.io/badge/CatBoost-blue">
 <img alt="SHAP" src="https://img.shields.io/badge/SHAP-blue">
 <img alt="SciPy" src="https://img.shields.io/badge/SciPy-blue">
+<img alt="SciPy" src="https://img.shields.io/badge/Optuna-blue">
 <!-- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch"> -->
 
