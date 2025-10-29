@@ -19,6 +19,9 @@
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas">
 <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python">
 <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img alt="seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40">
+
+shap, catboost, sea
 <!-- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch"> -->
 
