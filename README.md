@@ -20,7 +20,7 @@
 <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python">
 <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
 <img alt="seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40">
-<img alt="CatBoost" src="https://ru.wikipedia.org/wiki/Файл:CatBoostLogo.png" style="width:40px, height:25px"/>
+<img alt="CatBoost" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcatboost%2Fcatboost&psig=AOvVaw0fvAuTcRUrtUQMAN5U54a3&ust=1761815848590000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID88MyJyZADFQAAAAAdAAAAABAY" style="width:40px, height:25px"/>
 shap
 <!-- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch"> -->
