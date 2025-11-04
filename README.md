@@ -34,8 +34,7 @@
 <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
 
 ## LeetCode:
-[![Leetcode Stats](https://leetcode.com/u/mythysherrscher/)](https://leetcode.com/mythysherrscher)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/mythysherrscher)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythyskaiser&hide_title=true&layout=compact&langs_count=8&bg_color=080808&text_color=ffffff)
